@@ -27,4 +27,6 @@
   <spnOverride numeric="25020" spn="Теле2" />
   <spnOverride numeric="25028" spn="Билайн" />
   <spnOverride numeric="25099" spn="Билайн" />
+  <!-- Ukraine -->
+  <spnOverride numeric="25501" spn="МТС" />
 </spnOverrides>
