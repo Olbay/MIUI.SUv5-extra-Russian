@@ -1599,7 +1599,7 @@
 
     .line 314
     :cond_0
-    invoke-static {v4}, Lcom/android/providers/contacts/t9/T9Kdg;->formatCharToT9(C)C
+    invoke-static {v4}, Lcom/android/providers/contacts/t9/T9miuisu;->formatCharToT9(C)C
 
     move-result v3
 
